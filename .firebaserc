@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestarter-d3c06": {
+      "hosting": {
+        "firestarter15": [
+          "firestarter-d3c06"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestarter-d3c06"
+  }
+}
